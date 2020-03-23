@@ -2,8 +2,8 @@
 
 Install the following
 
-pip install tabulate/n
-pip install requests/n
+pip install tabulate<br/>
+pip install requests<br/>
 pip install beautifulsoup4
 
 create a new auth.py and write your slack webhook url address
